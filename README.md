@@ -1,7 +1,7 @@
-Docker Primero Pasos
-=========================
+## Docker Primero Pasos
 
-### Objetivos
+
+#### Objetivos
 
 * Instalar docker
 * Comandos Basicos
@@ -9,7 +9,7 @@ Docker Primero Pasos
 * Trabajando con Redes y Volumenes
 * Multibuild 
 
-### Requerimientos
+#### Requerimientos
 
 * VM con Linux o Instancia Cloud.
 * Conocimientos basicos de linux 
@@ -17,8 +17,8 @@ Docker Primero Pasos
 **El presente laboratorio se realizará con un OS Linux Centos 7.x**
 
 
-Instalación
-==================
+## Instalación
+
 
 > curl -fsSL https://get.docker.com -o get-docker.sh
 
@@ -36,8 +36,8 @@ Ahora vamos a inicializar el servicio:
 
 > systemctl start docker
 
-Imagenes y Contenedores
-============================
+
+## Imagenes y Contenedores
 
 
 
