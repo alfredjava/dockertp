@@ -14,7 +14,7 @@ Docker Primero Pasos
 * VM con Linux o Instancia Cloud.
 * Conocimientos basicos de linux 
 
-**El presente laboratorio se realizará con un OS Linux Centos 7.x
+**El presente laboratorio se realizará con un OS Linux Centos 7.x**
 
 
 Instalación
